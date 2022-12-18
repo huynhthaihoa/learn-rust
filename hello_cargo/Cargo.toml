@@ -1,0 +1,12 @@
+# TOML (Tom’s Obvious, Minimal Language) format, which is Cargo’s configuration format.
+
+# a section heading that indicates that the following statements are configuring a package
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+#start of a section to list any of project’s dependencies
+[dependencies]

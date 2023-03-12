@@ -20,7 +20,7 @@ rustc main.rs
 
 - After compiling successfully, Rust outputs a binary executable:
   - Windows: ```main.exe``` + ```.pdb``` file (contains debugging information)
-    - Other platforms: ```main```
+  - Other platforms: ```main```
 - From here, you can run the ```main.exe``` or ```main``` file, like this:
 
 ```code

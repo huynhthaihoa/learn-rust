@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My self practice following the book [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html).
+My self practice following the book [The Rust Programming Language](https://rust-book.cs.brown.edu/title-page.html).
 
 ## Notes
 
